@@ -17,7 +17,7 @@ The details can be found in the [TPAMI 2018 paper](#) (release soon).
 
 ### Prerequisites ###
 
-1. Requirements for `Caffe`, `pycaffe` and `matcaffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
+1. Requirements for `Caffe`, `pycaffe` and `matcaffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html)).
 
 2. Prerequisites for datasets.
     
