@@ -7,17 +7,6 @@ Created by Fumin Shen, Yan Xu, Li Liu, Yang Yang, Zi Huang, Heng Tao Shen
 
 The details can be found in the [TPAMI 2018 paper](#).
 
-## Citation ##
-
-If you find DeepBit useful in your research, please consider citing:
-
-    @article{'shen2018tist',
-        author   = {Fumin Shen and Yan Xu and Li Liu and Yang Yang and Zi Huang and Heng Tao Shen},
-        journal  = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
-        title    = {Unsupervised Deep Hashing with Similarity-Adaptive and Discrete Optimization},
-        year     = {2018}
-    }
-
 ## Contents ##
 
 - [Prerequisites](#prerequisites)
@@ -66,3 +55,14 @@ We integrate train step and test step in a bash file `train.sh`, please run it a
 ### Resources ###
 
 We supply CIFAR-10 and NUSWIDE datasets 
+
+## Citation ##
+
+If you find DeepBit useful in your research, please consider citing:
+
+    @article{'shen2018tist',
+        author   = {Fumin Shen and Yan Xu and Li Liu and Yang Yang and Zi Huang and Heng Tao Shen},
+        journal  = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
+        title    = {Unsupervised Deep Hashing with Similarity-Adaptive and Discrete Optimization},
+        year     = {2018}
+    }
