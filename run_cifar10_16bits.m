@@ -1,7 +1,7 @@
 close all;
 clear;
 
-addpath(genpath('/home/xuyan/mywork/py-faster-rcnn/caffe-fast-rcnn'));
+addpath(genpath('caffe/'));
 addpath(genpath('utils/'))
 % -- settings start here ---
 % set 1 to use gpu, and 0 to use cpu

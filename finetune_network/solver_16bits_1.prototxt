@@ -2,9 +2,9 @@ train_net: "vgg_train16_1.prototxt"
 base_lr: 0.001
 lr_policy: "step"
 gamma: 0.1
-stepsize: 35400
+stepsize: 35400 # batch num(118,000 / 20) x iteration(6)
 display: 100
-max_iter: 70800
+max_iter: 70800 # totally 12 iterations
 momentum: 0.9
 weight_decay: 0.0005
 snapshot: 5900

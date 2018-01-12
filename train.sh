@@ -3,14 +3,14 @@
 #set -x
 set -e
 
-if [ $# -ne 3 ] ; then
-    echo 'Please input parameters CAFFE_ROOT ROOT_FOLDER and GPU_ID'
+if [ $# -ne 2 ] ; then
+    echo 'Please input parameters ROOT_FOLDER and GPU_ID'
     exit 1;
 fi
 
-CAFFE_ROOT=$1
-ROOT_FOLDER=$2  # image root folder
-GPU_ID=$3
+CAFFE_ROOT=./caffe
+ROOT_FOLDER=$1  # image root folder
+GPU_ID=$2
 
 # iteration 1
 echo "extract fc7 features"
