@@ -60,7 +60,7 @@ We supply CIFAR-10 dataset, which has been flipped. You can download it by follo
 - CIFAR-10 dataset (png format): [BaiduYun](https://pan.baidu.com/s/1kWPp2xp).
 
 
-## Citation ##
+### Citation ###
 
 If you find DeepBit useful in your research, please consider citing:
 
