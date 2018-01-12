@@ -3,3 +3,4 @@
 *.h5
 traindata*.txt
 /cifar10/*
+*.solverstate
