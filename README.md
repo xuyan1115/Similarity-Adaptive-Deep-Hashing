@@ -57,7 +57,7 @@ We integrate train step and test step in a bash file `train.sh`, please run it a
 
 We supply CIFAR-10 dataset, which has been flipped. You can download it by following links:
 
-- CIFAR-10 dataset (png format): [BaiduYun](#https://pan.baidu.com/s/1pMCWc1H)(password: 6s7l)
+- CIFAR-10 dataset (png format): [BaiduYun](#https://pan.baidu.com/s/1pMCWc1H) (Password: 6s7l)
 
 
 ## Citation ##
