@@ -2,5 +2,7 @@
 *.mat
 *.h5
 traindata*.txt
-/cifar10/*
+/cifar10/train/*
+/cifar10/test/*
+/cifar10/train_flip/*
 *.solverstate
