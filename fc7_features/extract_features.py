@@ -4,9 +4,11 @@
 __author__ = 'XuYan'
 
 import numpy as np
+import sys
+caffe_root = '../caffe/'
+sys.path.insert(0, caffe_root + 'python')
 import caffe
 import time
-import sys
 import copy
 import os
 import matplotlib.pyplot as plt
