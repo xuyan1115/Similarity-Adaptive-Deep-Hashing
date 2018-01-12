@@ -13,6 +13,7 @@ The details can be found in the [TPAMI 2018 paper](#).
 - [Installation](#installation)
 - [Usage](#usage)
 - [Resources](#resources)
+- [Citation](#citation)
 
 ### Prerequisites ###
 
