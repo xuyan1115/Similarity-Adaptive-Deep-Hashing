@@ -62,7 +62,7 @@ We supply CIFAR-10 dataset, which has been flipped. You can download it by follo
 
 ### Citation ###
 
-If you find DeepBit useful in your research, please consider citing:
+If you find our approach useful in your research, please consider citing:
 
     @article{'shen2018tist',
         author   = {Fumin Shen and Yan Xu and Li Liu and Yang Yang and Zi Huang and Heng Tao Shen},
