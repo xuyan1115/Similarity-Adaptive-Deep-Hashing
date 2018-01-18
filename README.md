@@ -64,7 +64,7 @@ We supply CIFAR-10 dataset, which has been flipped. You can download it by follo
 
 If you find our approach useful in your research, please consider citing:
 
-    @article{'shen2018tist',
+    @article{'shen2018tpami',
         author   = {Fumin Shen and Yan Xu and Li Liu and Yang Yang and Zi Huang and Heng Tao Shen},
         journal  = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
         title    = {Unsupervised Deep Hashing with Similarity-Adaptive and Discrete Optimization},
