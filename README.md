@@ -5,7 +5,7 @@ Unsupervised Deep Hashing with Similarity-Adaptive and Discrete Optimization
 
 Created by Fumin Shen, Yan Xu, Li Liu, Yang Yang, Zi Huang, Heng Tao Shen
 
-The details can be found in the [TPAMI 2018 paper](#) (release soon).
+The details can be found in the [TPAMI 2018 paper](http://cfm.uestc.edu.cn/~fshen/SADH.pdf).
 
 ## Contents ##
 
